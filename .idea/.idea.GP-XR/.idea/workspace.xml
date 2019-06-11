@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="671e5c7a-6481-45f5-960c-137e1a687e63" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GP-XR/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GP-XR/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GP-XR/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GP-XR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GP-XR/riderModule.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FillPlayerCanvasVars.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FillPlayerCanvasVars.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556739900822" expanded="false" signature="6:100" ph="..." />
+                <marker date="1556739900822" expanded="true" signature="151:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerConnectionObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerConnectionObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1935">
+              <caret line="129" column="91" selection-start-line="128" selection-start-column="8" selection-end-line="129" selection-end-column="91" />
+              <folding>
+                <marker date="1558093541393" expanded="true" signature="6:130" ph="..." />
+                <marker date="1558093541393" expanded="true" signature="186:3743" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="263:346" ph="/* private Manager _managerScript; ... */" />
+                <marker date="1558093541393" expanded="true" signature="527:559" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="585:833" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="610:633" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="648:799" ph="/* since instantiate doesn't spawn an object in all the client machiene but only in your own ... */" />
+                <marker date="1558093541393" expanded="true" signature="837:1209" ph="Misc" />
+                <marker date="1558093541393" expanded="true" signature="928:983" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1039:1108" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1123:1196" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1140:1193" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1235:1585" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1260:1279" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1315:1349" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1385:1576" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1732:2023" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="1736:2020" ph="/* Debug.Log(&quot;PlayerConnectionObject::OnNameChanged -- Changing the name from &quot; + PlayerName + &quot; to &quot; + newName); ... */" />
+                <marker date="1558093541393" expanded="true" signature="2029:3518" ph="Commands" />
+                <marker date="1558093541393" expanded="true" signature="2093:3030" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="2221:2379" ph="/* playerUnit.transform.parent = this.transform; ... */" />
+                <marker date="1558093541393" expanded="true" signature="2452:2868" ph="/* playerScript.Canvas = _playerCanvas.gameObject; ... */" />
+                <marker date="1558093541393" expanded="true" signature="3093:3504" ph="{...}" />
+                <marker date="1558093541393" expanded="true" signature="3097:3501" ph="/* Debug.Log(&quot;PlayerConnectionObject::Cmd_ChangePlayerName -- Applying name change in the server by &quot; + newName); ... */" />
+                <marker date="1558093541393" expanded="true" signature="3521:3741" ph="RPCs" />
+                <marker date="1558093541393" expanded="true" signature="3597:3726" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyNetworkManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyNetworkManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding>
+                <marker date="1558062934176" expanded="false" signature="6:108" ph="..." />
+                <marker date="1558062934176" expanded="true" signature="156:882" ph="{...}" />
+                <marker date="1558062934176" expanded="true" signature="418:880" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+              <folding>
+                <marker date="1558093509891" expanded="false" signature="6:135" ph="..." />
+                <marker date="1558093509891" expanded="true" signature="178:1797" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="424:1068" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="522:938" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="1117:1273" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="1162:1265" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="1310:1388" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="1428:1610" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="1637:1722" ph="{...}" />
+                <marker date="1558093509891" expanded="true" signature="1750:1790" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19E52A84-9248-47D4-A823-84169FA74432/56/18efa50f/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FillPlayerCanvasVars.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/4a/e69a4f27/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19E52A84-9248-47D4-A823-84169FA74432/a0/6cd4302f/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8A095B3-F316-4218-8DD7-4D51FCA9A97A/9c/49402ff7/PlayerConnectionObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2CD8BDE9-C8DC-4CA9-8739-31FB39E71958/6c/62e9a4d1/PlayerConnectionObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shooting.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/d0/b9fbc137/NetworkServerSimple.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/ac/20a53392/NetworkIdentity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplicationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F0A4FCD-0DC0-4584-B4CC-8C5CDBF93447/8c/e112852b/CanvasUpdateRegistry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/24/a60db7a7/NetworkServer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/4b/ca8f3b4f/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MyNetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/72D60C93-6AC3-4B4F-AEC1-A49C3CD127C8/40/5c1f09bc/PlayerConnectionObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Nokobot/ModernGuns_Handgun/Demo Assets/SimpleShoot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3B070EA-E227-4AD8-BD5D-A20D5076749B/d0/4120471a/Canvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerConnectionObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/ab/436e9c61/NetworkConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247FA85A-B873-467E-95E9-126EC1936469/61/cc8255b3/GameView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247FA85A-B873-467E-95E9-126EC1936469/be/8e813213/EditorGUIUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FillPlayerCanvasVars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyNetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerConnectionObject.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="208" />
+    <option name="y" value="208" />
+    <option name="width" value="1132" />
+    <option name="height" value="534" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GP-XR" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="ca&#9;FILE&#9;file://D:/AmrMoataz--W/My library/College/GP Team/GP Project/GP-XR/Assets/Scripts/CameraScript.cs&#10;f&#9;FILE&#9;file://D:/AmrMoataz--W/My library/College/GP Team/GP Project/GP-XR/Assets/Scripts/FillPlayerCanvasVars.cs&#10;rcs&#9;FILE&#9;file://D:/AmrMoataz--W/My library/College/GP Team/GP Project/GP-XR/Assets/Scripts/RayCastShooting.cs&#10;ps&#9;FILE&#9;file://D:/AmrMoataz--W/My library/College/GP Team/GP Project/GP-XR/Assets/Scripts/PlayerScript.cs&#10;Players&#9;null&#9;null&#10;shooting&#9;FILE&#9;file://D:/AmrMoataz--W/My library/College/GP Team/GP Project/GP-XR/Assets/Scripts/Shooting.cs&#10;ENem&#9;FILE&#9;file://D:/AmrMoataz--W/My library/College/GP Team/GP Project/GP-XR/Assets/Scripts/EnemyAI.cs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671e5c7a-6481-45f5-960c-137e1a687e63" name="Default" comment="" />
+      <created>1553955081882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553955081882</updated>
+      <workItem from="1553955285364" duration="622000" />
+      <workItem from="1553957166590" duration="11167000" />
+      <workItem from="1554153936358" duration="5011000" />
+      <workItem from="1554219014620" duration="7933000" />
+      <workItem from="1554646887658" duration="1648000" />
+      <workItem from="1554725544767" duration="2937000" />
+      <workItem from="1554906609880" duration="322000" />
+      <workItem from="1556566042721" duration="1394000" />
+      <workItem from="1556719206236" duration="8418000" />
+      <workItem from="1556815176105" duration="5779000" />
+      <workItem from="1556823232351" duration="5363000" />
+      <workItem from="1556902432236" duration="5053000" />
+      <workItem from="1556984132340" duration="3184000" />
+      <workItem from="1557919128462" duration="1343000" />
+      <workItem from="1558044711273" duration="1599000" />
+      <workItem from="1558060252593" duration="3953000" />
+      <workItem from="1558092129850" duration="1919000" />
+      <workItem from="1559057576628" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67896000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Unity" order="9" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs</url>
+          <line>53</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs" initialLine="53">
+            <startOffsets>
+              <startOffset value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/MyNetworkManager.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/MyNetworkManager.cs" initialLine="27">
+            <startOffsets>
+              <startOffset value="684" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="762" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <marker date="1558093509891" expanded="false" signature="6:135" ph="..." />
+            <marker date="1558093509891" expanded="true" signature="178:1797" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="424:1068" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="522:938" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1117:1273" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1162:1265" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1310:1388" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1428:1610" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1637:1722" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1750:1790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="55" selection-start-line="20" selection-start-column="9" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shooting.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <marker date="1558093509891" expanded="false" signature="6:135" ph="..." />
+            <marker date="1558093509891" expanded="true" signature="178:1797" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="424:1068" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="522:938" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1117:1273" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1162:1265" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1310:1388" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1428:1610" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1637:1722" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1750:1790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding>
+            <marker date="1556740602238" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556740602238" expanded="true" signature="124:2198" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="473:671" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="697:1730" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="739:1716" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1209:1706" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1311:1578" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1579:1692" ph="/* else if ( /*hit online player*/) ... */" />
+            <marker date="1556740602238" expanded="true" signature="1772:1936" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1969:2196" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1982:2190" ph="/* Vector3 rayOrigin = Player.GetComponent&lt;Camera&gt;().ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="55" selection-start-line="20" selection-start-column="9" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="78" column="56" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shooting.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1558093509891" expanded="false" signature="6:135" ph="..." />
+            <marker date="1558093509891" expanded="true" signature="178:1797" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="424:1068" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="522:938" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1117:1273" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1162:1265" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1310:1388" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1428:1610" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1637:1722" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1750:1790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <marker date="1556740602238" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556740602238" expanded="true" signature="124:2198" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="473:671" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="697:1730" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="739:1716" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1209:1706" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1311:1578" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1579:1692" ph="/* else if ( /*hit online player*/) ... */" />
+            <marker date="1556740602238" expanded="true" signature="1772:1936" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1969:2196" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1982:2190" ph="/* Vector3 rayOrigin = Player.GetComponent&lt;Camera&gt;().ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Nokobot/ModernGuns_Handgun/Demo Assets/SimpleShoot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shooting.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <marker date="1556740602238" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556740602238" expanded="true" signature="124:2198" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="473:671" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="697:1730" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="739:1716" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1209:1706" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1311:1578" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1579:1692" ph="/* else if ( /*hit online player*/) ... */" />
+            <marker date="1556740602238" expanded="true" signature="1772:1936" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1969:2196" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1982:2190" ph="/* Vector3 rayOrigin = Player.GetComponent&lt;Camera&gt;().ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1558093509891" expanded="false" signature="6:135" ph="..." />
+            <marker date="1558093509891" expanded="true" signature="178:1797" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="424:1068" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="522:938" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1117:1273" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1162:1265" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1310:1388" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1428:1610" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1637:1722" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1750:1790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="56" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shooting.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Nokobot/ModernGuns_Handgun/Demo Assets/SimpleShoot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplicationManager.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RayCastShooting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+          <folding>
+            <marker date="1556740602238" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556740602238" expanded="true" signature="124:2198" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="473:671" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="697:1730" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="739:1716" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1209:1706" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1311:1578" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1579:1692" ph="/* else if ( /*hit online player*/) ... */" />
+            <marker date="1556740602238" expanded="true" signature="1772:1936" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1969:2196" ph="{...}" />
+            <marker date="1556740602238" expanded="true" signature="1982:2190" ph="/* Vector3 rayOrigin = Player.GetComponent&lt;Camera&gt;().ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2CD8BDE9-C8DC-4CA9-8739-31FB39E71958/6c/62e9a4d1/PlayerConnectionObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/ab/436e9c61/NetworkConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="661" column="6" selection-start-line="661" selection-start-column="6" selection-end-line="661" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/d0/b9fbc137/NetworkServerSimple.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="376" column="6" selection-start-line="376" selection-start-column="6" selection-end-line="376" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/24/a60db7a7/NetworkServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="859" column="6" selection-start-line="859" selection-start-column="6" selection-end-line="859" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/ac/20a53392/NetworkIdentity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="1043" column="6" selection-start-line="1043" selection-start-column="6" selection-end-line="1043" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BDA87FC4-5C94-4A13-8D48-0265CAC28E81/4a/e69a4f27/NetworkManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="1240" column="6" selection-start-line="1240" selection-start-column="6" selection-end-line="1240" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/72D60C93-6AC3-4B4F-AEC1-A49C3CD127C8/40/5c1f09bc/PlayerConnectionObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19E52A84-9248-47D4-A823-84169FA74432/56/18efa50f/Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="406" column="6" selection-start-line="406" selection-start-column="6" selection-end-line="406" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19E52A84-9248-47D4-A823-84169FA74432/a0/6cd4302f/GameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/4b/ca8f3b4f/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="1001" column="8" selection-start-line="1001" selection-start-column="8" selection-end-line="1001" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8A095B3-F316-4218-8DD7-4D51FCA9A97A/9c/49402ff7/PlayerConnectionObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9F0A4FCD-0DC0-4584-B4CC-8C5CDBF93447/8c/e112852b/CanvasUpdateRegistry.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3B070EA-E227-4AD8-BD5D-A20D5076749B/d0/4120471a/Canvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="176" column="6" selection-start-line="176" selection-start-column="6" selection-end-line="176" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247FA85A-B873-467E-95E9-126EC1936469/be/8e813213/EditorGUIUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="197" column="6" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247FA85A-B873-467E-95E9-126EC1936469/61/cc8255b3/GameView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="719" column="12" selection-start-line="719" selection-start-column="12" selection-end-line="719" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="37" column="49" selection-start-line="36" selection-start-column="8" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawning.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FillPlayerCanvasVars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556739900822" expanded="false" signature="6:100" ph="..." />
+            <marker date="1556739900822" expanded="true" signature="151:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <marker date="1558093509891" expanded="false" signature="6:135" ph="..." />
+            <marker date="1558093509891" expanded="true" signature="178:1797" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="424:1068" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="522:938" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1117:1273" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1162:1265" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1310:1388" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1428:1610" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1637:1722" ph="{...}" />
+            <marker date="1558093509891" expanded="true" signature="1750:1790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerConnectionObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="91" selection-start-line="128" selection-start-column="8" selection-end-line="129" selection-end-column="91" />
+          <folding>
+            <marker date="1558093541393" expanded="true" signature="6:130" ph="..." />
+            <marker date="1558093541393" expanded="true" signature="186:3743" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="263:346" ph="/* private Manager _managerScript; ... */" />
+            <marker date="1558093541393" expanded="true" signature="527:559" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="585:833" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="610:633" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="648:799" ph="/* since instantiate doesn't spawn an object in all the client machiene but only in your own ... */" />
+            <marker date="1558093541393" expanded="true" signature="837:1209" ph="Misc" />
+            <marker date="1558093541393" expanded="true" signature="928:983" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1039:1108" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1123:1196" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1140:1193" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1235:1585" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1260:1279" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1315:1349" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1385:1576" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1732:2023" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="1736:2020" ph="/* Debug.Log(&quot;PlayerConnectionObject::OnNameChanged -- Changing the name from &quot; + PlayerName + &quot; to &quot; + newName); ... */" />
+            <marker date="1558093541393" expanded="true" signature="2029:3518" ph="Commands" />
+            <marker date="1558093541393" expanded="true" signature="2093:3030" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="2221:2379" ph="/* playerUnit.transform.parent = this.transform; ... */" />
+            <marker date="1558093541393" expanded="true" signature="2452:2868" ph="/* playerScript.Canvas = _playerCanvas.gameObject; ... */" />
+            <marker date="1558093541393" expanded="true" signature="3093:3504" ph="{...}" />
+            <marker date="1558093541393" expanded="true" signature="3097:3501" ph="/* Debug.Log(&quot;PlayerConnectionObject::Cmd_ChangePlayerName -- Applying name change in the server by &quot; + newName); ... */" />
+            <marker date="1558093541393" expanded="true" signature="3521:3741" ph="RPCs" />
+            <marker date="1558093541393" expanded="true" signature="3597:3726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyNetworkManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <marker date="1558062934176" expanded="false" signature="6:108" ph="..." />
+            <marker date="1558062934176" expanded="true" signature="156:882" ph="{...}" />
+            <marker date="1558062934176" expanded="true" signature="418:880" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
